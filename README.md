@@ -3,4 +3,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzCaroco&theme=transparent) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UzCaroco&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UzCaroco&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UzCaroco&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UzCaroco&theme=transparent&utcOffset=8)
