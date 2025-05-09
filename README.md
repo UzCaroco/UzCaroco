@@ -10,26 +10,41 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UzCaroco&theme=transparent&utcOffset=8" />
 </p>
 
+
+
+
 <p align="center">
+  <!-- Itch.io -->
   <a href="https://itch.io" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Itch.io_logo.svg" height="40" alt="itch.io"/>
+    <img src="https://static.itch.io/images/itchio-textless-black.svg" height="40" alt="Itch.io" />
   </a>
+
+  <!-- Pixilart -->
   <a href="https://www.pixilart.com/" target="_blank">
     <img src="https://www.pixilart.com/favicon.ico" height="40" alt="Pixilart"/>
   </a>
+
+  <!-- Behance (com fundo branco) -->
   <a href="https://www.behance.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" height="40" alt="Behance"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Behance_Logo.png" height="40" alt="Behance"/>
   </a>
+
+  <!-- Lattes -->
   <a href="http://lattes.cnpq.br/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/pt/3/3d/Logo_lattes_2.png" height="40" alt="Lattes"/>
+    <img src="https://raw.githubusercontent.com/CarocoAssets/logos/main/lattes.png" height="40" alt="Lattes"/>
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
+
+  <!-- Outlook -->
   <a href="mailto:seu.email@outlook.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Outlook_2013-2019_logo.svg" height="40" alt="Outlook"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Microsoft_Office_Outlook_%282018–present%29.svg/512px-Microsoft_Office_Outlook_%282018–present%29.svg.png" height="40" alt="Outlook"/>
   </a>
 </p>
+
 
 
 
