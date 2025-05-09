@@ -11,15 +11,26 @@
 </p>
 
 <p align="center">
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/></a>
-  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/></a>
-  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/></a>
-  <a href="https://linkedin.com/in/seuusuario"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/></a>
-  <a href="https://instagram.com/seuusuario"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/></a>
+  <a href="https://itch.io" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Itch.io_logo.svg" height="40" alt="itch.io"/>
+  </a>
+  <a href="https://www.pixilart.com/" target="_blank">
+    <img src="https://www.pixilart.com/favicon.ico" height="40" alt="Pixilart"/>
+  </a>
+  <a href="https://www.behance.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" height="40" alt="Behance"/>
+  </a>
+  <a href="http://lattes.cnpq.br/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/pt/3/3d/Logo_lattes_2.png" height="40" alt="Lattes"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seu.email@outlook.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Outlook_2013-2019_logo.svg" height="40" alt="Outlook"/>
+  </a>
 </p>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UzCaroco&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
