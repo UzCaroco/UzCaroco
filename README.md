@@ -1,4 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzCaroco&theme=transparent) 
+<div align="center"> ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzCaroco&theme=transparent) </div>.
 
 ![3D GitHub Profile](https://raw.githubusercontent.com/UzCaroco/UzCaroco/main/profile-3d-contrib/profile-night-rainbow.svg)
 
