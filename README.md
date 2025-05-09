@@ -10,3 +10,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UzCaroco&theme=transparent&utcOffset=8" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=UzCaroco&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
