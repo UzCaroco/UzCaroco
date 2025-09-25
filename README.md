@@ -32,6 +32,13 @@
 ![Caroço's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzCaroco&show_icons=true&theme=tokyonight)
 
 ### Gráfico 3D personalizado
+<picture>
+  <source srcset="https://raw.githubusercontent.com/UzCaroco/UzCaroco/main/profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="https://raw.githubusercontent.com/UzCaroco/UzCaroco/main/profile-3d-contrib/profile-github-light.svg" media="(prefers-color-scheme: light)">
+  <img src="https://raw.githubusercontent.com/UzCaroco/UzCaroco/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile">
+</picture>
+
+
 ![3D GitHub Profile](https://raw.githubusercontent.com/UzCaroco/UzCaroco/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
