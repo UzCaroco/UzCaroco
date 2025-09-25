@@ -9,8 +9,6 @@
 - 🌱 Estudando **Unreal Engine** e também **Unity ECS / DOTS**  
 - 💡 Sempre explorando novas formas de contar histórias interativas  
 
----
-
 ## 🛠️ Tecnologias que uso
 <p align="left">
   <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="C# Badge" />
