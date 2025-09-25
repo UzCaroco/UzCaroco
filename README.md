@@ -45,7 +45,7 @@
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com](https://www.linkedin.com/in/luiz-neto-460246340/))
-[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)]([https://itch.io](https://uzcaroco.itch.io/))
+[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)]((https://uzcaroco.itch.io/))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge)](https://linkr.bio/luizneto)
 
 
