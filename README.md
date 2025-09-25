@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 - 🔭 Atualmente trabalhando em projetos pessoais de jogos  
-- 🌱 Estudando **Unity ECS / DOTS** e também Unreal Engine  
+- 🌱 Estudando **Unreal Engine** e também **Unity ECS / DOTS**  
 - 💡 Sempre explorando novas formas de contar histórias interativas  
 
 ---
