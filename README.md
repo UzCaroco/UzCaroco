@@ -13,7 +13,8 @@
 
 ## 🛠️ Tecnologias que uso
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
+![Unity Light](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=000000&style=for-the-badge#gh-light-mode-only)
+![Unity Dark](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge#gh-dark-mode-only)
 ![Unreal](https://img.shields.io/badge/-Unreal-313131?logo=unrealengine&logoColor=white&style=for-the-badge)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
 <!--![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)-->
