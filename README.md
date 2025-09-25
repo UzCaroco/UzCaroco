@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Caroço  
+# 👋 Olá, me chamo Luiz
 
-🎮 Desenvolvedor de Jogos Digitais | Criador curioso e explorador de ideias  
+🎮 Desenvolvedor de Jogos Digitais
 
 ---
 
