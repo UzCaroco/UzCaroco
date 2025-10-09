@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Luiz
+# 👋 Olá, me chamo Luiz Neto
 
 🎮 Desenvolvedor de Jogos Digitais
 
