@@ -50,7 +50,7 @@
 [![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://uzcaroco.itch.io/)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-13AFF0?logo=artstation&logoColor=white&style=for-the-badge)](https://www.artstation.com/uzcaroco)
 [![Pixilart](https://img.shields.io/badge/-Pixilart-222222?logo=pixiv&logoColor=white&style=for-the-badge)](https://www.pixilart.com/uzcaroco/gallery)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge)]([https://linkr.bio/luizneto](https://linktr.ee/luizneto))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-222222?style=for-the-badge)]((https://linktr.ee/luizneto))
 
 
 
