@@ -32,6 +32,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UzCaroco&theme=tokyonight&utcOffset=-3" />
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=UzCaroco&theme=tokyonight)
+
 ### Gráfico 3D personalizado
 <picture>
   <source srcset="https://raw.githubusercontent.com/UzCaroco/UzCaroco/main/profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
