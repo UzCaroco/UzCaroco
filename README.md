@@ -31,7 +31,6 @@
 
 ![Resumo](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzCaroco&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=UzCaroco&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=UzCaroco&theme=tokyonight)
 
 ### Gráfico 3D personalizado
