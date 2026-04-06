@@ -29,7 +29,7 @@
 
 ## 📊 Minhas contribuições
 ### Gráfico oficial do GitHub
-![Caroço's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzCaroco&show_icons=true&theme=tokyonight)
+![Caroço's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzCaroco&show_icons=true&theme=tokyonight&v=1)
 
 ### Gráfico 3D personalizado
 <picture>
